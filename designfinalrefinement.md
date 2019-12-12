@@ -10,6 +10,8 @@ A more detailed description of the app is contained in the [Design Refinement Br
 
 ### Final Adjustments
 
+Over the course of this project we have not only iteratively developed a solution, but we have iteratively developed our problem. We believe that our solution is exciting and impactful because it effectively solves a problem that is seriously affecting visually-impaired people everywhere. The documentation we have developed up to this point suggests that this kind of solution, even for a problem as specific as the one we have chosen to solve will make a significant difference in the comfort and safety of blind people in the face of transportation.
+
 After creating the basic app Meats by Dre tested several versions of the app.
 They focused on improving the instructions that the app provides the user. The first iteration lacked comprehensive instructions that covered all of the features available to the user, so new instructions were added. 
 AB testing revealed that adding detail and reordering parts of the instructions improved the performance of the users tested.
@@ -62,8 +64,12 @@ Another area for potential growth is the system of providing directions to users
 The app currently uses auditory cues to guide users, but in a loud station this may not be practical.
 The team is currently investigating the use of tactile cues, but implementing them remains a work in progress.
 
-An additional is the need for a reliable emergency stop cue.
-It is vital that the system is able to provide a warning if the user is too close to the tracks, or is some other danger.
+An additional need is for a reliable emergency stop cue.
+It is vital that the system is able to provide a warning if the user is too close to the tracks, or is some other danger. We want to effectively ensure that our users feel safe in the subway system because above all else, they should not be concerned that they are at risk in any way for not being able to see.
+
+Also, if we were to continue with this project, we would want to perform further development and testing with our physical prototype. As we have discussed in this report and over the course of the project, it is a challenge to present a prototype that effectively simulates the experience and even as we moved closer and closer to an effective prototype in our final refinement phase, we felt this was a weakness. We would be very excited in the future to perform full usability tests with vibrating wristbands to see how effectively the experience we have largely developed through simulation on the computer translates to the real world with the kind of physical prototype that would actually be used in the subway.
+
+Finally, we belive a weakness of our process is the fact that we did not have a chance to more thoroughly iterate on our designs with visually-impaired people. As we noticed in testing with fellow designers and students at Olin during our formal usability test, someone who is blind views the world very differently from someone who is not. There are certain parts of our design such as the manual query for directions that we believe the visually-impaired would appreciate more than students who are imagining what it must be like to be blind. With this said, we believe there is significant value in testing designs with other user experience designers because there are types of feedback that we know we would not have gotten from non-designers. For example, some of the feedback we received on the controls of the wireframe as well as instructions were very pointed and useful because the person testing had a mind for user experience design enough to be able to provide very specific and pointed feedback. 
 
 Despite these concerns the app achieves its intended purpose, and with some additional development could be made into a useful tool for users who are blind.
 
@@ -73,7 +79,7 @@ Despite these concerns the app achieves its intended purpose, and with some addi
  Person | Contributions 
  ------ | -------------------------------------
 Henry   | Ideation<br>Coded app<br> 
-Bryan   | Formal usability study<br> 
+Bryan   | Formal usability study<br>Wrote text for formal usability study<br>Ideation<br>Website Design<br>
 Camille | Ideation<br>Formal usability study<br>Wrote text for formal usability study<br>
 Noah    | Ideation<br>Wrote text for report<br>
 
