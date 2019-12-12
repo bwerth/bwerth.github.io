@@ -79,7 +79,7 @@ Despite these concerns the app achieves its intended purpose, and with some addi
  Person | Contributions 
  ------ | -------------------------------------
 Henry   | Ideation<br>Coded app<br> 
-Bryan   | Formal usability study<br>Wrote text for formal usability study<br>Ideation<br>Website Design<br>
+Bryan   | Formal usability study<br>Wrote text for formal usability study<br>Ideation<br>Website Design<br>Wrote text for report<br>
 Camille | Ideation<br>Formal usability study<br>Wrote text for formal usability study<br>
 Noah    | Ideation<br>Wrote text for report<br>
 
